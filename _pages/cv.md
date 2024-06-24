@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Computer Science, 2015
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
