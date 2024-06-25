@@ -5,7 +5,6 @@ excerpt: 'Identifying the feasibility of using accelerometers to recognize sever
 date: 2022-10-01
 venue: 'Research in Autism Spectrum Disorders'
 paperurl: 'https://doi.org/10.1016/j.rasd.2022.102043'
-citation: 'Scheithauer, Mindy, Shruthi Hiremath, Audrey Southerland, Agata Rozga, Thomas Ploetz, Chelsea Rock, and Nathan Call. "Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury." Research in Autism Spectrum Disorders 98 (2022): 102043.'
 ---
 
 **Abstract**
@@ -15,3 +14,5 @@ This study addressed these gaps by evaluating the feasibility of accelerometer u
 We evaluated the feasibility of individuals with ASD wearing accelerometers during behavioral assessments following structured habituation procedures. We also evaluated the feasibility of caregivers applying sensors to individuals with ASD in the home setting.
 Most participants passed habituation and tolerated sensors during behavioral assessments (e.g., functional analyses). Caregivers applied sensors in the home with variable fidelity with wear time duration and data-collection.
 The feasibility of using accelerometers with this population is promising and should be explored further in future research.
+
+Recommended citation: 'Scheithauer, Mindy, Shruthi Hiremath, Audrey Southerland, Agata Rozga, Thomas Ploetz, Chelsea Rock, and Nathan Call. "Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury." Research in Autism Spectrum Disorders 98 (2022): 102043.'
