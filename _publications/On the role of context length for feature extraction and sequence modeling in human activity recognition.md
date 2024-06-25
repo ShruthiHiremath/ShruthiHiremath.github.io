@@ -1,6 +1,7 @@
 ---
 title: "On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition"
 collection: publications
+excerpt: 'Identifying otpimal context lengths for feature engineering anf classification for HAR.'
 permalink: /publication/On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition
 date: 2021-09-21
 venue: 'Proceedings of the 2021 ACM International Symposium on Wearable Computers'
