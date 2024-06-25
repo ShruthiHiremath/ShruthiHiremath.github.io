@@ -1,6 +1,7 @@
 ---
 title: "Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch"
 collection: publications
+excerpt: 'Blah.'
 date: 2022-09-07
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 slidesurl: 'http://ShruthiHiremath.github.io/files/Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch.pdf'
