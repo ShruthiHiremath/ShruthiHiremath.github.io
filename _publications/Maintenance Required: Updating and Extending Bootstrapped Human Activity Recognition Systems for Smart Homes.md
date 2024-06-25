@@ -1,6 +1,7 @@
 ---
 title: "Maintenance Required: Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes"
 collection: publications
+excerpt: 'Life-long learning in smart home based HAR.'
 date: 2024-06-20
 venue: 'IEEE Xplore (The 6th International Conference on Activity and Behavior Computing)'
 slidesurl: 'http://ShruthiHiremath.github.io/files/Maintenance Required_ Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes.pdf'
