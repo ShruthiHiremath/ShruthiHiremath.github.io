@@ -1,8 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
