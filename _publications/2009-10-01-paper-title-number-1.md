@@ -2,7 +2,7 @@
 title: "Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'We present a framework for the objective complexity assessment of HAR tasks that directly supports practitioners' decision making of whether and how to employ HAR for their deployments. We map a HAR task onto a vectorial representation that allows us to analyse the inherent challenges of the task and to draw conclusions through similarity analysis with regards to existing tasks. We validate our complexity assessment framework on 23 HAR datasets and derive a data-driven categorization of human activity recognition. We demonstrate how our objective analysis can be used to inform the deployment of HAR systems in practical scenarios.'
+excerpt: 'An objective complexity assessment of HAR tasks that directly supports practitioners' decision making of whether and how to employ HAR for their deployments in practical scenarios.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
