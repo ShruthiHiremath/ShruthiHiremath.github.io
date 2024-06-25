@@ -1,6 +1,7 @@
 ---
 title: "Game of LLMs: Discovering Structural Constructs in Activities using Large Language Models"
 collection: publications
+excerpt: 'Employing pair-wise LLMs to identify strucutral constructs for activities in Smart Homes.'
 date: 2024-06-14
 venue: 'Arxiv (Under Review)'
 paperurl: 'https://arxiv.org/html/2406.13777v1'
