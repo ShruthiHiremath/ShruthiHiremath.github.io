@@ -16,5 +16,7 @@ As such I propose a ``**lifespan**" of a human activity recognition system in sm
 
 Recent News
 ------
-
+* Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
+* M.S. in Computer Science, 2015
+* B.S. in GitHub, GitHub University, 2012
 
