@@ -2,7 +2,7 @@
 title: "Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'An objective complexity assessment of HAR tasks that directly supports practitioners' decision making of whether and how to employ HAR.'
+excerpt: 'Paper c2'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
