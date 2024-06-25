@@ -1,7 +1,7 @@
 ---
 title: "Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch"
 collection: publications
-excerpt: 'Blah.'
+excerpt: 'Jump-starting human activity recognition systems in Smart Homes'
 date: 2022-09-07
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 citation: 'Hiremath, Shruthi K., Yasutaka Nishimura, Sonia Chernova, and Thomas Plötz. "Bootstrapping human activity recognition systems for smart homes from scratch." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6, no. 3 (2022): 1-27.'
