@@ -4,7 +4,7 @@ collection: publications
 date: 2022-10-01
 venue: 'Research in Autism Spectrum Disorders'
 paperurl: 'https://doi.org/10.1016/j.rasd.2022.102043'
-citation: 'Scheithauer, Mindy, Shruthi Hiremath, Audrey Southerland, Agata Rozga, Thomas Ploetz, Chelsea Rock, and Nathan Call. "Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury." Research in Autism Spectrum Disorders 98 (2022): 102043..'
+citation: 'Scheithauer, Mindy, Shruthi Hiremath, Audrey Southerland, Agata Rozga, Thomas Ploetz, Chelsea Rock, and Nathan Call. "Feasibility of accelerometer technology with individuals with autism spectrum disorder referred for aggression, disruption, and self injury." Research in Autism Spectrum Disorders 98 (2022): 102043.'
 ---
 
 Most research on aggression, self-injury, and disruption in autism spectrum disorder (ASD) has relied on caregiver report or direct observation, both of which have limitations. Past studies demonstrate preliminary evidence for direct detection of these behaviors using accelerometers, but additional research is needed to determine the feasibility during actual clinical assessments and times when a therapist cannot be present for direct observation, as measurement during these periods has the most applied significance.
