@@ -1,6 +1,7 @@
 ---
 title: "The Lifespan of Human Activity Recognition Systems for Smart Homes"
 collection: publications
+excerpt: 'Defining the complete life-cycle of the activity recognition system in a smart home.'
 date: 2023-09-07
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/23/18/7729'
