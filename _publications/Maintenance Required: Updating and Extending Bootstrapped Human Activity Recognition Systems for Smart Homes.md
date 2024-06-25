@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'Life-long learning for smart home based HAR.'
 date: 2024-06-20
 venue: 'IEEE Xplore (The 6th International Conference on Activity and Behavior Computing)'
-slidesurl: 'http://ShruthiHiremath.github.io/files/Maintenance Required_Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes.pdf'
+slidesurl: 'http://ShruthiHiremath.github.io/files/Maintenance Required _Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes.pdf'
 paperurl: 'https://arxiv.org/html/2406.14446v1'
 ---
 
