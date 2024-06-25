@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition
 date: 2021-09-21
 venue: 'Proceedings of the 2021 ACM International Symposium on Wearable Computers'
-slidesurl: 'http://academicpages.github.io/files/Deriving Effective Human Activity Recognition Systems Through Objective Task Complexity Assessment.pdf'
+slidesurl: 'http://ShruthiHiremath.github.io/files/On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3460421.3478825'
 citation: 'Hiremath, Shruthi Kashinath, and Thomas Ploetz. "On the role of context length for feature extraction and sequence modeling in human activity recognition." In Proceedings of the 2021 ACM International Symposium on Wearable Computers, pp. 13-17. 2021.'
 ---
