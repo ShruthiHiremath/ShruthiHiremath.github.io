@@ -1,7 +1,6 @@
 ---
 title: "Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment"
 collection: publications
-permalink: /publication/Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment
 date: 2020-12-18
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 slidesurl: 'http://ShruthiHiremath.github.io/files/Deriving Effective Human Activity Recognition Systems Through Objective Task Complexity Assessment.pdf'
