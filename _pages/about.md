@@ -16,7 +16,9 @@ As such I propose a ``**lifespan**" of a human activity recognition system in sm
 
 Recent News
 ------
-* Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
-* M.S. in Computer Science, 2015
-* B.S. in GitHub, GitHub University, 2012
+* May 2024: Our paper on **Maintaining and Updating Human Activity Recognition Systems for Smart Homes** is accepted presented at the 6th International Conference on Activity and Behavior Computing
+* Sep 2023: Our paper detailing the **Lifespan of Human Activity Recognition Systems for Smart Homes** is published at Sensors (Special Issue: Smart Sensing Technology for Human Activity Recognition)
+* April 2023: Passed my Ph.D Proposal. Thank you to my committee members for their valuable feedback!
+* Oct 2022: Our paper on Feasibility of using accelerometers for identifying severe behavior on individuals with Austism is accepted at Research in Autism Spectrum Disorders
+* 
 
