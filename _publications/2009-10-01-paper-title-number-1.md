@@ -1,8 +1,7 @@
 ---
 title: "Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Paper c2'
+permalink: /publication/Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
