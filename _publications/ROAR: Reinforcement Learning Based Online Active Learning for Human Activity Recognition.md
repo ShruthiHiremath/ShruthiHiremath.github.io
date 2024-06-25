@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning Based Online Active Learning for Human Activity Recognition"
+title: "ROAR: Reinforcement Learning Based Online Active Learning for Human Activity Recognition"
 collection: publications
 permalink: /publication/Reinforcement Learning Based Online Active Learning for Human Activity Recognition
 date: 2022-12-27
