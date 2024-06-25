@@ -1,6 +1,7 @@
 ---
 title: "ROAR: Reinforcement Learning Based Online Active Learning for Human Activity Recognition"
 collection: publications
+excerpt: 'Using reinforcement based techniques to identify data points to query for labeling in a HAR task.'
 permalink: /publication/Reinforcement Learning Based Online Active Learning for Human Activity Recognition
 date: 2022-12-27
 venue: 'Proceedings of the 2022 ACM International Symposium on Wearable Computers'
