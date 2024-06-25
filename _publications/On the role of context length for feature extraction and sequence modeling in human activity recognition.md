@@ -2,8 +2,8 @@
 title: "On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition"
 collection: publications
 permalink: /publication/On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition
-date: 2020-12-18
-venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
+date: 2021-09-21
+venue: 'ISWC '21: Proceedings of the 2021 ACM International Symposium on Wearable Computers'
 slidesurl: 'http://academicpages.github.io/files/Deriving Effective Human Activity Recognition Systems Through Objective Task Complexity Assessment.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3432227'
 citation: 'Hiremath, Shruthi K., and Thomas Plötz. "Deriving effective human activity recognition systems through objective task complexity assessment." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, no. 4 (2020): 1-24.'
