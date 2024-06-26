@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Please find my resume here](http://shruthihiremath.github.io/files/)
+[Please find my resume here](http://shruthihiremath.github.io/files/Shruthi_Hiremath_CV_Gatech-2.pdf)
 
 Education
 ======
