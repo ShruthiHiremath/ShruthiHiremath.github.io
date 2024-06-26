@@ -19,7 +19,7 @@ author_profile: true
 
 ## Community Service
 * Organizer of N^2 Women Event @ Percom 2023
-* Social Chair, Ubicomp Lab @ Georgia Tech (2020-2022)
+* Social Chair, [Ubicomp Lab](https://ubicomp.cc.gatech.edu) @ Georgia Tech (2020-2022)
 * Oranginizing committee (web chair) @ Ubicomp 2022
 * Organizer of N^2 Women Event @ Ubicomp 2021
 * Georgia Tech [CBA Lab](https://cba.gatech.edu)  Meeting Coordinator (Fall 2019 - Summer 2020).
