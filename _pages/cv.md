@@ -24,18 +24,22 @@ Work experience
   * I developed data-driven technologies for wearable and nearable based
   application scenarios to build deployable human activity recognition sys-
   tems, with a focus on providing health monitoring.
-  * Work has led to several publications, and acquiring grants.
+  * Published at venues: IMWUT, ISWC, Sensors, International Conference on Activity and Behavior Computing
   * Supervisor: Dr. Thomas Ploetz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May - July 2016 : Data Science Intern
+  * ADP Solutions
+  * My work involved development of data analysis procedures to analyze
+  and gather insights from collected payroll data.
+  
+* Aug 2014 - July 2015: Software Developer
+  * Deloitte USI (India)
+  * I was involved in building a tool that served as an interface between
+  end users and project management activities(PMC) aimed as reducing
+  the number of manual tickets raised for changes to a project team. The
+  tool successfully contributed to a 70% reduction in costs associated with
+  handling tickets, thereby achieving significant cost savings
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
