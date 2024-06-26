@@ -41,17 +41,9 @@ Work experience
   handling tickets, thereby achieving significant cost savings
 
 
-Programming Languages : Python, C, C++, Java, R
-Database Systems : Oracle, MYSQL, SQLite, Cassandra, Firebase, NoSQL
-Scripting Languages : JavaScript, UNIX Shell Scripting
-Frameworks : CodeIgniter, Node.js
-
 Skills
 ======
 * Quantitative: Applied Machine Learning, Deep Learning, Statistical Model, Time-Series Data Analysis
 * Programming Languages: Python (numpy, pandas, scikit-learn), Java, R
-* Database Systems: MYSQL, SQLite, 
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Database Systems: MYSQL, SQLite, Oracle
+* Deep learning frameworks - PyTorch, Keras.
