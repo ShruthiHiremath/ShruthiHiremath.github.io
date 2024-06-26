@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Please find my resume here](http://shruthihiremath.github.io/files/)
+
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
