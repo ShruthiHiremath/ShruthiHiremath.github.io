@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 [Please find my resume here](http://shruthihiremath.github.io/files/Shruthi-Hiremath-CV.pdf)
