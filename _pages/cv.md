@@ -27,6 +27,11 @@ Work experience
   * Published at venues: IMWUT, ISWC, Sensors, International Conference on Activity and Behavior Computing
   * Supervisor: Dr. Thomas Ploetz
 
+* Aug 2018 - Present: Graduate Teaching Assistant
+  * Georgia Institute of Technology
+  * CS 6601: Artificial Intelligence - design assignments and exams
+  * CS 7470: Mobile & Ubiquitous Computing - design exams
+ 
 * May - July 2016 : Data Science Intern
   * ADP Solutions
   * My work involved development of data analysis procedures to analyze
