@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [Please find my resume here](http://shruthihiremath.github.io/files/Shruthi-Hiremath-CV.pdf)
 
 Education
