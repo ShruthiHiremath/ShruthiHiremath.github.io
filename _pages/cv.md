@@ -40,12 +40,17 @@ Work experience
   tool successfully contributed to a 70% reduction in costs associated with
   handling tickets, thereby achieving significant cost savings
 
-  
+
+Programming Languages : Python, C, C++, Java, R
+Database Systems : Oracle, MYSQL, SQLite, Cassandra, Firebase, NoSQL
+Scripting Languages : JavaScript, UNIX Shell Scripting
+Frameworks : CodeIgniter, Node.js
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Quantitative: Applied Machine Learning, Deep Learning, Statistical Model, Time-Series Data Analysis
+* Programming Languages: Python (numpy, pandas, scikit-learn), Java, R
+* Database Systems: MYSQL, SQLite, 
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
