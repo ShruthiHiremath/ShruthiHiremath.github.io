@@ -18,12 +18,8 @@ author_profile: true
   *  Served on the Program Committee for `The Second Workshop on Ubiquitous and Multi-domain User Modeling (UMUM2023)'. Held in Conjunction with PerCom 2023. 
 
 ## Community Service
-
-\textsc{} 2018 - present & \textbf{Mentor}, Georgia Tech:  mentored undergraduate and graduate student interested in research  \\
-\textsc{} 2023 & \textbf{$\mathbf{N^2}$ Women Event}, Percom 2023   \\
-\textsc{} 2022 & \textbf{Organizing Committee (Web Chair)}, Ubicomp 2022   \\
-\textsc{} 2021 & \textbf{$\mathbf{N^2}$ Women Event}, Ubicomp 2021   \\
-\textsc{} 2020 - 2023 & \textbf{Social Chair}, Ubicomp Lab @ Georgia Tech   \\
-\textsc{} 2015 - 2022 & \textbf{Volunteer}, India Club @ Georgia Tech   \\
-\textsc{} 2010 - 2014 & \textbf{Core Member}, Robotics Club @ VIT University   \\
-
+* Organizer of N^2 Women Event @ Percom 2023
+* Social Chair, Ubicomp Lab @ Georgia Tech (2020-2022)
+* Oranginizing committee (web chair) @ Ubicomp 2022
+* Organizer of N^2 Women Event @ Ubicomp 2021
+* Georgia Tech [CBA Lab](https://cba.gatech.edu)  Meeting Coordinator (Fall 2019 - Summer 2020).
