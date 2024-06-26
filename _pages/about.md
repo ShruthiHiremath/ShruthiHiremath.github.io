@@ -16,7 +16,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Recent News
 ------
-* May 2024: Our paper [Maintaining and Updating Human Activity Recognition Systems for Smart Homes](https://arxiv.org/html/2406.14446v1) is accepted presented at the 6th International Conference on Activity and Behavior Computing
+* May 2024: Our paper [Maintaining and Updating Human Activity Recognition Systems for Smart Homes](https://arxiv.org/html/2406.14446v1) is accepted and presented at the 6th International Conference on Activity and Behavior Computing
 * Oct 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
 * Sep 2023: Our paper detailing the [Lifespan of Human Activity Recognition Systems for Smart Homes](https://www.mdpi.com/1424-8220/23/18/7729) is published at Sensors (Special Issue: Smart Sensing Technology for Human Activity Recognition)
 * April 2023: Passed my Ph.D Proposal. Thank you to my committee members for their valuable feedback!
