@@ -24,7 +24,7 @@ Work experience
   * I developed data-driven technologies for wearable and nearable based
   application scenarios to build deployable human activity recognition sys-
   tems, with a focus on providing health monitoring.
-  * Work has led to several publications, 
+  * Work has led to several publications, and acquiring grants.
   * Supervisor: Dr. Thomas Ploetz
 
 * Fall 2015: Research Assistant
