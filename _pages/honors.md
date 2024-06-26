@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Award"
+permalink: /services/
+author_profile: true
+---
+
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
