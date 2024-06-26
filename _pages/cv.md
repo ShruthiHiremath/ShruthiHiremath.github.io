@@ -14,15 +14,18 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
-* M.S. in Computer Science, 2015
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Georgia Institute of Technology
+* B.Tech. in Computer Science, Vellore Institute of Technology
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2018 - Present: Graduate Research Assistant
+  * Georgia Institute of Technology
+  * I developed data-driven technologies for wearable and nearable based
+  application scenarios to build deployable human activity recognition sys-
+  tems, with a focus on providing health monitoring.
+  * Work has led to several publications, 
+  * Supervisor: Dr. Thomas Ploetz
 
 * Fall 2015: Research Assistant
   * Github University
@@ -43,24 +46,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
