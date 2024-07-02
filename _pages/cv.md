@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Please find my resume here](http://shruthihiremath.github.io/files/Shruthi-Hiremath-CV.pdf)
+[Please find my resume here](http://shruthihiremath.github.io/files/Shruthi_Hiremath_CV_Gatech.pdf)
 
 Education
 ======
