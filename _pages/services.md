@@ -9,7 +9,8 @@ author_profile: true
 * ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (2018 -2024)
 * Ubicomp Posters and Demos (2024)
 * UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems	(2024) 
-* Nordic Conference on Human-Computer Interaction (NordiCHI) (2024) 
+* Nordic Conference on Human-Computer Interaction (NordiCHI) (2024)
+* Workshop on Ubiquitous and Multi-domain User Modeling (UMUM) (2023)
 * International Conference on Pervasive Computing and Communications (Percom) (2022)
 * ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) (2021)
 
