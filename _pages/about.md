@@ -16,7 +16,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Recent News
 ------
-* August 2024: I will be working with the Optum Tech AI/ML division of Optum Technology. Excited about this opportunity and looking forward to everything I will learn here!
+* August 2024: I will be working with the [Optum Tech AI/ML division of Optum Technology] (https://www.optumlabs.com/work/artificial-intelligence.html). Excited about this opportunity and looking forward to everything I will learn here!
 * July 2024: Our paper [Game of LLMs: Discovering Discovering Structural Constructs in Activities using Large Language Models](https://arxiv.org/html/2406.13777v1) is accepted to HASCA. I will be presenting this work at [Ubicomp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/) in Melbourne, Australia
 * May 2024: Our paper [Maintaining and Updating Human Activity Recognition Systems for Smart Homes](https://arxiv.org/html/2406.14446v1) is accepted and presented at the 6th International Conference on Activity and Behavior Computing in Kyushu, Japan
 * Oct 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
