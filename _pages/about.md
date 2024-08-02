@@ -16,6 +16,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Recent News
 ------
+* August 2024: I will be working with the Optum Tech AI/ML division of Optum Technology. Excited about this opportunity and looking forward to everything I will learn here!
 * July 2024: Our paper [Game of LLMs: Discovering Discovering Structural Constructs in Activities using Large Language Models](https://arxiv.org/html/2406.13777v1) is accepted to HASCA. I will be presenting this work at [Ubicomp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/) in Melbourne, Australia
 * May 2024: Our paper [Maintaining and Updating Human Activity Recognition Systems for Smart Homes](https://arxiv.org/html/2406.14446v1) is accepted and presented at the 6th International Conference on Activity and Behavior Computing in Kyushu, Japan
 * Oct 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
@@ -23,7 +24,7 @@ Recent News
 * April 2023: Passed my Ph.D Proposal. Thank you to my committee members for their valuable feedback!
 * Oct 2022: Our paper on [Feasibility of using accelerometers for identifying severe behavior](https://www.sciencedirect.com/science/article/pii/S1750946722001301) on individuals with Austism is accepted at Research in Autism Spectrum Disorders
 * Sept 2022: Attended [Ubicomp '22](https://ubicomp.org/ubicomp2022/) at Georgia Tech, Atlanta
-* Aug 2022: Awarded the GVU Travel Grant!
+* Aug 2022: Awarded the GVU Travel Grant ($300)!
 * July 2022: Our paper on using [Reinforcement based active learning](https://dl.acm.org/doi/abs/10.1145/3544794.3558457) approaches is accepted to ISWC '22 and will be presented at Ubicomp '22.
 * June 2022: Serving on the [organizng committee](https://ubicomp.org/ubicomp2022/organizing-committee/) for Ubicomp 2022!
 * June 2022: Our paper [Bootstrapping Human Activity Recognition Systems for Smart Homes](https://dl.acm.org/doi/abs/10.1145/3550294) is accepted (with minor revision) at IMWUT
