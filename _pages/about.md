@@ -23,3 +23,4 @@ Recent News
 * Oct. 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
 * Sept. 2023: Our paper detailing the [Lifespan of Human Activity Recognition Systems for Smart Homes](https://www.mdpi.com/1424-8220/23/18/7729) is published at Sensors (Special Issue: Smart Sensing Technology for Human Activity Recognition)
 * April 2023: Passed my Ph.D Proposal. Thank you to my committee members for their valuable feedback!
+* [News prior to 2023](https://shruthihiremath.github.io/oldnews/) 
