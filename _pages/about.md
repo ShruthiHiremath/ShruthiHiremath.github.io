@@ -29,7 +29,3 @@ Recent News
 * July 2022: Our paper on using [Reinforcement based active learning](https://dl.acm.org/doi/abs/10.1145/3544794.3558457) approaches is accepted to ISWC '22 and will be presented at Ubicomp '22.
 * June 2022: Serving on the [organizng committee](https://ubicomp.org/ubicomp2022/organizing-committee/) for Ubicomp 2022!
 * June 2022: Our paper [Bootstrapping Human Activity Recognition Systems for Smart Homes](https://dl.acm.org/doi/abs/10.1145/3550294) is accepted (with minor revision) at IMWUT
-* Sept. 2021: Attended [Ubicomp '21](https://ubicomp.org/ubicomp2021/) and presented our paper [On the role of context length for feature extraction and sequence modeling in human activity recognition](https://dl.acm.org/doi/abs/10.1145/3460421.3478825) accepted to ISWC '21
-* Sept. 2021: Organized the [N^2 Women Event](https://ubicomp.org/ubicomp2021/program/n2-women-event/) at Ubicomp '21
-* Sept. 2021: Presented our work [Deriving effective human activity recognition systems through objective task complexity assessment](https://dl.acm.org/doi/abs/10.1145/3432227) at Ubicomp '21
-
