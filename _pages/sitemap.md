@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Old News"
 permalink: /sitemap/
 author_profile: true
 ---
