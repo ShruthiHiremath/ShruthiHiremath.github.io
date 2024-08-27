@@ -11,4 +11,3 @@ Old News
 * Sept. 2021: Organized the [N^2 Women Event](https://ubicomp.org/ubicomp2021/program/n2-women-event/) at Ubicomp '21
 * Sept. 2021: Presented our work [Deriving effective human activity recognition systems through objective task complexity assessment](https://dl.acm.org/doi/abs/10.1145/3432227) at Ubicomp '21
 
-
