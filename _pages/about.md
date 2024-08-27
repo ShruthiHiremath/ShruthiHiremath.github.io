@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a (final year-) Ph.D. candidate in Computer Science at the Georgia Institute of Technology, advised by Dr. Thomas Ploetz. At Georgia Tech, I am associated with the Computational Behavior Analysis and Ubiquitous Computing Lab. I am on the industry job market and am interested in opportunities that align with my skill set. Looking forward to making contributions towards exciting work. 
+I am a (final year-) Ph.D. candidate in Computer Science at the Georgia Institute of Technology, advised by Dr. Thomas Ploetz. At Georgia Tech, I am associated with the Computational Behavior Analysis and Ubiquitous Computing Lab. I am on the industry job market and am interested in opportunities that align with my skill set. Looking forward to making contributions towards exciting work.
 
 Research Interest
 ------
