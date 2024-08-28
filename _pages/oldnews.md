@@ -5,8 +5,11 @@ permalink: /oldnews/
 author_profile: true
 ---
 
-News (-- prior to '23 --)
+News (-- prior to '24 --)
 ------
+* Oct. 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
+* Sept. 2023: Our paper detailing the [Lifespan of Human Activity Recognition Systems for Smart Homes](https://www.mdpi.com/1424-8220/23/18/7729) is published at Sensors (Special Issue: Smart Sensing Technology for Human Activity Recognition)
+* April 2023: [Passed my Ph.D Proposal](https://grad.gatech.edu/events/phd-defense-shruthi-hiremath). Thank you to my committee members for their valuable feedback!
 * Oct. 2022: Our paper on [Feasibility of using accelerometers for identifying severe behavior](https://www.sciencedirect.com/science/article/pii/S1750946722001301) on individuals with Austism is accepted at Research in Autism Spectrum Disorders
 * Sept. 2022: Attended [Ubicomp '22](https://ubicomp.org/ubicomp2022/) at Georgia Tech, Atlanta
 * Aug. 2022: Awarded the GVU Travel Grant ($500)!
