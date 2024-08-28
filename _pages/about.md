@@ -20,7 +20,4 @@ Recent News
 * Aug. 2024: I will be working with the [Optum Tech AI/ML division of Optum Technology](https://www.optumlabs.com/work/artificial-intelligence.html). Excited about this opportunity and looking forward to everything I will learn here!
 * July 2024: Our paper [Game of LLMs: Discovering Discovering Structural Constructs in Activities using Large Language Models](https://arxiv.org/html/2406.13777v1) is accepted to HASCA. I will be presenting this work at [Ubicomp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/) in Melbourne, Australia
 * May 2024: Our paper [Maintaining and Updating Human Activity Recognition Systems for Smart Homes](https://arxiv.org/html/2406.14446v1) is accepted and presented at the 6th International Conference on Activity and Behavior Computing in Kyushu, Japan
-* Oct. 2023: Attended [Percom 2023](https://percom.org/2023/) and organized the [N^2 Women Event](https://percom.org/2023/n2women-event/)
-* Sept. 2023: Our paper detailing the [Lifespan of Human Activity Recognition Systems for Smart Homes](https://www.mdpi.com/1424-8220/23/18/7729) is published at Sensors (Special Issue: Smart Sensing Technology for Human Activity Recognition)
-* April 2023: [Passed my Ph.D Proposal](https://grad.gatech.edu/events/phd-defense-shruthi-hiremath). Thank you to my committee members for their valuable feedback!
-* [News prior to 2023](https://shruthihiremath.github.io/oldnews/) 
+* [News prior to 2024](https://shruthihiremath.github.io/oldnews/) 
