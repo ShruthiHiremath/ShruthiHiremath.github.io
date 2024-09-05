@@ -16,7 +16,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Recent News
 ------
-* Sept. 2024: Our paper on [Maintenance Required: Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes] (https://ieeexplore.ieee.org/document/10651685) is now available on IEEE Xplore!.
+* Sept. 2024: Our paper [Maintenance Required: Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes](https://ieeexplore.ieee.org/document/10651685) is now available on IEEE Xplore!.
 * Aug. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted (with major revisions) to IMWUT '24.
 * Aug. 2024: I will be working with the [Optum Tech AI/ML division of Optum Technology](https://www.optumlabs.com/work/artificial-intelligence.html). Excited about this opportunity and looking forward to everything I will learn here!
 * July 2024: Our paper [Game of LLMs: Discovering Discovering Structural Constructs in Activities using Large Language Models](https://arxiv.org/html/2406.13777v1) is accepted to HASCA. I will be presenting this work at [Ubicomp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/) in Melbourne, Australia
