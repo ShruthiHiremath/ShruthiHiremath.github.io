@@ -17,7 +17,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 Recent News
 ------
 * Oct. 2024: Completed the [ACM Reviewer Training and Certification](http://shruthihiremath.github.io/files/Certificate.pdf)
-* Oct. 2024: I will be chairing the session on [Smart Homes and IoT - Session 10A](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A) at Ubicomp 2024! Don’t miss the fascinating line-up of papers on the 9th!
+* Oct. 2024: I will be chairing the session on [Smart Homes and IoT - Session 10A](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A) at Ubicomp 2024! Don’t miss the fascinating line-up of papers on the 9th! (20% acceptance rate)
 *  Sept. 2024: Our paper [Maintenance Required: Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes](https://ieeexplore.ieee.org/document/10651685) is now available on IEEE Xplore!
 * Aug. 2024: TA'ed for the [OMSCS - CSS6601: Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence) class.
 * Aug. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted (with major revisions) to IMWUT '24.
