@@ -16,7 +16,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Recent News
 ------
-* Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300(!) attendees:)
+* Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300(!) attendees☺️
 * Oct. 2024: Completed the [ACM Reviewer Training and Certification](http://shruthihiremath.github.io/files/Certificate.pdf)
 * Oct. 2024: I will be chairing the session on [Smart Homes and IoT - Session 10A](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A) at Ubicomp 2024 (20% acceptance rate)! Don’t miss the fascinating line-up of papers on the 9th! 
 *  Sept. 2024: Our paper [Maintenance Required: Updating and Extending Bootstrapped Human Activity Recognition Systems for Smart Homes](https://ieeexplore.ieee.org/document/10651685) is now available on IEEE Xplore!
