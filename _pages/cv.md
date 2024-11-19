@@ -7,6 +7,11 @@ author_profile: true
 
 [Please find my resume here](http://shruthihiremath.github.io/files/Shruthi_Hiremath_CV_Gatech.pdf)
 
+Research Statement
+======
+My dissertation builds pipelines for recognizing activities in smart homes, by observing data collected from residents using nearable sensors. 
+As such I propose a **'lifespan of a human activity recognition system in smart homes'**, which includes (a) initial bootstrapping procedure - aimed at `jump-starting' the activity recognition system in the home, with minimal supervision from the resident, without considerable wait times; (b) updating and extending the activity recognition system - aimed at improving the recognition capabilities of the initial bootstrapped system; (c) routine assessment - aimed at behavior monitoring of residents over extended periods of observation. 
+
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
