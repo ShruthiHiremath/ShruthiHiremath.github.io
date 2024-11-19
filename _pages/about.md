@@ -14,7 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
-* xxx. 2024: Reviewed for: IMWUT '24, ISWC '24, NordiCHI '24 (special recognition for outstanding review), UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
+* xxx. 2024: Reviewed for: IMWUT '24, ISWC '24, NordiCHI '24 (special recognition for outstanding review) ☺️, UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
 * Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300+(!) attendees ☺️
 * Oct. 2024: Completed the [ACM Reviewer Training and Certification](http://shruthihiremath.github.io/files/Certificate.pdf)
 * Oct. 2024: I will be chairing the session on [Smart Homes and IoT - Session 10A](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A) at Ubicomp 2024 (20% acceptance rate)! Don’t miss the fascinating line-up of papers on the 9th! 
