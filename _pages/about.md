@@ -11,11 +11,10 @@ I am a (final year-) Ph.D. candidate in Computer Science at the Georgia Institut
 Research Interest
 ------
 My research interest broadly focuses on building novel activity recognition pipelines for wearable and nearable sensing devices. During the course of my Ph.D. I have focused on developing machine learning algorithms for activity monitoring and behavior analysis. 
-My dissertation builds pipelines for recognizing activities in smart homes, by observing data collected from residents using nearable sensors. 
-As such I propose a **'lifespan of a human activity recognition system in smart homes'**, which includes (a) initial bootstrapping procedure - aimed at `jump-starting' the activity recognition system in the home, with minimal supervision from the resident, without considerable wait times; (b) updating and extending the activity recognition system - aimed at improving the recognition capabilities of the initial bootstrapped system; (c) routine assessment - aimed at behavior monitoring of residents over extended periods of observation. 
 
 Recent News
 ------
+* xxx. 2024: Reviewer: IMWUT '24, ISWC '24, NordiCHI '24 (special recognition for outstanding review), UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
 * Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300+(!) attendees ☺️
 * Oct. 2024: Completed the [ACM Reviewer Training and Certification](http://shruthihiremath.github.io/files/Certificate.pdf)
 * Oct. 2024: I will be chairing the session on [Smart Homes and IoT - Session 10A](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A) at Ubicomp 2024 (20% acceptance rate)! Don’t miss the fascinating line-up of papers on the 9th! 
