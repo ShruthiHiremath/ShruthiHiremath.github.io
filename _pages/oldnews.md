@@ -19,4 +19,5 @@ News (-- prior to '24 --)
 * June 2022: Our paper [Bootstrapping Human Activity Recognition Systems for Smart Homes](https://dl.acm.org/doi/abs/10.1145/3550294) is accepted (with minor revision) at IMWUT
 * Sept. 2021: Attended [Ubicomp '21](https://ubicomp.org/ubicomp2021/) and presented our paper [On the role of context length for feature extraction and sequence modeling in human activity recognition](https://dl.acm.org/doi/abs/10.1145/3460421.3478825) accepted to ISWC '21
 * Sept. 2021: Organized the [N^2 Women Event](https://ubicomp.org/ubicomp2021/program/n2-women-event/) at Ubicomp '21
+* Nov. 2021: Invention Disclosure: Deriving Effective Human Activity Recognition Systems through Objective Task Complexity Assessment (Tech ID: 8563) @ Georgia Tech, 2021
 * Sept. 2021: Presented our work [Deriving effective human activity recognition systems through objective task complexity assessment](https://dl.acm.org/doi/abs/10.1145/3432227) at Ubicomp '21
