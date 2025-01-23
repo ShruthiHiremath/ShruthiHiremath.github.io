@@ -15,7 +15,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 Recent News
 ------
 * Dec. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted to IMWUT '24. Looking forward to it's presentation in  Espoo, Finland.
-* Dec. 2024: Nominated for 'Intern of the Year' award by Optum AI.
+* Dec. 2024: Nominated for 'Intern of the Year' award by Optum AI 🌟.
 * xxx. 2024: Special Recognition for Outstanding Review: NordiCHI '24 ☺️.
 * xxx. 2024: Reviewed for: IMWUT '24, ISWC '24, NordiCHI '24, UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
 * Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300+(!) attendees ☺️
