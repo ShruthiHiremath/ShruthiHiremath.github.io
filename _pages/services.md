@@ -19,6 +19,7 @@ author_profile: true
   *  Served on the Program Committee for `The Second Workshop on Ubiquitous and Multi-domain User Modeling (UMUM2023)'. Held in Conjunction with PerCom 2023. 
 
 ## Community Service
+* Session Chair: Paper Session 10A - Smart Homes and IoT, [https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-10A] @ Ubicomp 2024
 * Organizer of N^2 Women Event @ Percom 2023
 * Social Chair, [Ubicomp Lab](https://ubicomp.cc.gatech.edu) @ Georgia Tech (2020-2022)
 * Oranginizing committee (web chair) @ Ubicomp 2022
