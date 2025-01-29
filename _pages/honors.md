@@ -16,6 +16,7 @@ Funding
 
 Awards
 ---
+* Nominated for ‘Intern of the Year’ award at Optum AI, 2024
 * N2 Women Young Research Fellowship ($1000), Percom 2023
 * Student Travel Grant ($500), Ubicomp 2022 (by Georgia Institute of Technology)
 * N2 Women Young Research Fellowship ($1000), Ubicomp 2021
