@@ -14,7 +14,7 @@ As such I propose a **'lifespan of a human activity recognition system in smart 
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, 2024 (expected)
+* Ph.D in Computer Science, Georgia Institute of Technology
 * M.S. in Computer Science, Georgia Institute of Technology
 * B.Tech. in Computer Science, Vellore Institute of Technology
 
