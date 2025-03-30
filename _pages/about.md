@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a (final year-) Ph.D. candidate in Computer Science at the Georgia Institute of Technology, advised by Dr. Thomas Ploetz. At Georgia Tech, I am associated with the [Computational Behavior Analysis](https://cba.gatech.edu) and [Ubiquitous Computing Lab](https://ubicomp.cc.gatech.edu). I am also a Research Scientist with Optum AI, working alongside some of the most brilliant minds in AI and machine learning to drive innovation in healthcare and taking on exciting challenges. I look forward to making contributions towards impactful work.
+I am also a Research Scientist with Optum AI, working alongside some of the most brilliant minds in AI and machine learning to drive innovation in healthcare and taking on exciting challenges. I am a (final year-) Ph.D. candidate in Computer Science at the Georgia Institute of Technology, advised by Dr. Thomas Ploetz. At Georgia Tech, I am associated with the [Computational Behavior Analysis](https://cba.gatech.edu) and [Ubiquitous Computing Lab](https://ubicomp.cc.gatech.edu).  I look forward to making contributions towards impactful work.
 
 Research Interest
 ------
