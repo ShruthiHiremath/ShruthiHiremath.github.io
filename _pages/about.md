@@ -14,7 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
-* March 2025: I successfully defended my PhD Dissertation. This will always be an important milestone in my professional journey ☺️.
+* March 2025: I successfully defended my PhD dissertation. This will always be an important milestone in my professional journey ☺️.
 * March 2025: Now a Research Scientist at Optum AI.
 * 2025: Reviewed for: IMWUT '25.
 * Dec. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted to IMWUT '24. Looking forward to it's presentation in  Espoo, Finland.
