@@ -14,7 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
-* June 2025: Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv. Check the paper out [here](https://arxiv.org/pdf/2506.11773).
+* June 2025: Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check the paper out [here](https://arxiv.org/pdf/2506.11773).
 * May 2025: Invited for a seminar talk at the 'Human-centered sensing and ML research seminar' at CMU! I presented my work on deriving HAR systems for Smart Homes.
 * March 2025: I successfully defended my PhD dissertation from Georgia Tech! This will always be one of the most important milestone in my professional life ☺️.
 * March 2025: Now a Research Scientist at Optum AI.
