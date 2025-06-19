@@ -14,13 +14,14 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
-* June 2025: Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check out the paper [here](https://arxiv.org/pdf/2506.11773).
+* June 2025: Reviewing for Frontiers in Artificial Intelligence!
+* June 2025: 📚Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check out the paper [here](https://arxiv.org/pdf/2506.11773).
 * May 2025: Invited for a seminar talk at the 'Human-centered sensing and ML research seminar' at CMU! I presented my work on deriving HAR systems for Smart Homes.
-* March 2025: I successfully defended my PhD dissertation from Georgia Tech! This will always be one of the most important milestone in my professional life ☺️.
-* March 2025: Now a Research Scientist at Optum AI.
+* March 2025: ✌️I successfully defended my PhD dissertation from Georgia Tech! This will always be one of the most important milestone in my professional life ☺️.
+* March 2025: ✌️Now a Research Scientist at Optum AI.
 * 2025: Reviewed for: IMWUT '25, IEEE Transactions on Neural Systems and Rehabilitation Engineering '25.
 * Dec. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted to IMWUT '24. Looking forward to it's presentation in  Espoo, Finland.
-* Dec. 2024: Nominated for 'Intern of the Year' award at Optum AI 🌟.
+* Dec. 2024: 🌟Nominated for 'Intern of the Year' award at Optum AI.
 * 2024: Special Recognition for Outstanding Review: NordiCHI '24, IMWUT '24 ☺️.
 * 2024: Reviewed for: IMWUT '24, ISWC '24, NordiCHI '24, UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
 * Nov. 2024: I gave a talk on **'Deriving bespokse human activity recognition system for smart homes'** at Optum. My largest audience so far - 300+(!) attendees ☺️
