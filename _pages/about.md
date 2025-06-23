@@ -21,7 +21,7 @@ Recent News
 * March 2025: ✌️I successfully defended my PhD dissertation from Georgia Tech! This will always be one of the most important milestone in my professional life ☺️.
 * March 2025: ✌️Now a Research Scientist at Optum AI.
 * 2025: Reviewed for: IMWUT '25, IEEE Transactions on Neural Systems and Rehabilitation Engineering '25.
-* Dec. 2024: Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted to IMWUT '24. Looking forward to it's presentation in  Espoo, Finland.
+* Dec. 2024: 📚Our paper on [Layout agnostic activity recognition in Smart Homes](https://arxiv.org/pdf/2405.12368) is accepted to IMWUT '24. Looking forward to it's presentation in  Espoo, Finland.
 * Dec. 2024: 🌟Nominated for 'Intern of the Year' award at Optum AI.
 * 2024: Special Recognition for Outstanding Review: NordiCHI '24, IMWUT '24 ☺️.
 * 2024: Reviewed for: IMWUT '24, ISWC '24, NordiCHI '24, UbiComp/ISWC 2024 Workshop on AI-infused Physical Systems (I4U), UbiComp/ISWC 2024 Workshop on Physiological Methods for HII.
