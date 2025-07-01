@@ -14,6 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
+* June 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction!
 * June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! More details coming soon! 
 * June 2025: 👩🏻‍💻Reviewing for Frontiers in Artificial Intelligence!
 * June 2025: 📚Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check out the paper [here](https://arxiv.org/pdf/2506.11773).
