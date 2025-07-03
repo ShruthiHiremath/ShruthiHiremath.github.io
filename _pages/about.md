@@ -16,7 +16,7 @@ Recent News
 ------
 * June 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction, 2025!
 * June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! More details coming soon! 
-* June 2025: 👩🏻‍💻Reviewing for Frontiers in Artificial Intelligence, 2025!
+* June 2025: 👩🏻‍💻Reviewed for Frontiers in Artificial Intelligence, 2025!
 * June 2025: 📚Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check out the paper [here](https://arxiv.org/pdf/2506.11773).
 * May 2025: Invited for a seminar talk at the 'Human-centered sensing and ML research seminar' at CMU! I presented my work on deriving HAR systems for Smart Homes.
 * March 2025: 👩🏻‍🎓I successfully defended my PhD dissertation from Georgia Tech! This will always be one of the most important milestone in my professional life ☺️.
