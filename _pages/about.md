@@ -15,7 +15,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 Recent News
 ------
 * June 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction, 2025!
-* June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! Proposal website: [CoMoRe-AI 2026](https://sites.google.com/view/comoreai26/home)
+* June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! Proposal website: [CoMoRe-AI 2026](https://sites.google.com/view/comoreai26/home).
 * June 2025: 👩🏻‍💻Reviewed for Frontiers in Artificial Intelligence, 2025!
 * June 2025: 📚Our work on generating virutal sensor data in simulated home environments using LLM Agents is now out on arxiv! Check out the paper [here](https://arxiv.org/pdf/2506.11773).
 * May 2025: Invited for a seminar talk at the 'Human-centered sensing and ML research seminar' at CMU! I presented my work on deriving HAR systems for Smart Homes.
