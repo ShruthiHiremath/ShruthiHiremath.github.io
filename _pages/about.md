@@ -14,6 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
+* Aug 2025: Now a part-time Instructional Associate with the College of Computing at Georgia Tech!
 * 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction, 2025!
 * June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! Workshop: [CoMoRe-AI 2026](https://sites.google.com/view/comoreai26/home).
 * 2025: 👩🏻‍💻Reviewed for Frontiers in Artificial Intelligence, 2025!
