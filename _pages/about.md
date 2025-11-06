@@ -14,6 +14,7 @@ My research interest broadly focuses on building novel activity recognition pipe
 
 Recent News
 ------
+* Nov 2025: 👩🏻‍💻Special Recognition for Outstanding Review: CHI 2026!☺️.
 * Oct 2025: Reviewing for CHI & ICASSP 2026!
 * Sept 2025: Now a part-time Instructional Associate with the College of Computing at Georgia Tech!
 * 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction, 2025!
