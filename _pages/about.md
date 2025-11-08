@@ -15,9 +15,9 @@ My research interest broadly focuses on building novel activity recognition pipe
 Recent News
 ------
 * Nov. 2025: 📚Our paper: AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments is accepted to AAAI '26! (17.6% acceptance rate).
-* Nov 2025: 👩🏻‍💻Special Recognition for Outstanding Review: CHI 2026!☺️.
-* Oct 2025: Reviewing for CHI & ICASSP 2026!
-* Sept 2025: Now a part-time Instructional Associate with the College of Computing at Georgia Tech!
+* Nov. 2025: 👩🏻‍💻Special Recognition for Outstanding Review: CHI 2026!☺️.
+* Oct. 2025: Reviewing for CHI & ICASSP 2026!
+* Sept. 2025: Now a part-time Instructional Associate with the College of Computing at Georgia Tech!
 * 2025: 👩🏻‍💻Reviewed for International Journal of Human-Computer Interaction, 2025!
 * June 2025: 🌟Our workshop CoMoRe-AI has been accepted to Percom 2026. Consider submitting to our workshop happening in the beautiful Pisa, Italy! Workshop: [CoMoRe-AI 2026](https://sites.google.com/view/comoreai26/home).
 * 2025: 👩🏻‍💻Reviewed for Frontiers in Artificial Intelligence, 2025!
